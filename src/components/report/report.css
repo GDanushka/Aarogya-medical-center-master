@@ -1,0 +1,174 @@
+
+.main-content{
+    padding: 0px 300px;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.invoice-container{
+    max-width: 1440px;
+    margin: auto;
+    padding: 2rem;
+    background: #fff;
+}
+    .top{
+        margin-bottom: 4rem;
+        display: flex;
+       
+
+    }
+    .top-left{
+        color: smain;
+    }
+    .main{
+        font-size: 40px;
+        text-transform: uppercase;
+        font-weight: 600;
+        display: block;
+        margin-bottom: 0.5rem;
+        color: blue;
+
+    }
+    .code{
+        font-size: 24px;
+    }
+    .date{
+        
+        font-size: 18px;
+        color:black;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        text-align: left;
+        
+
+    }
+    .bill-box{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 4rem;
+        color: aquamarine;
+         align-items: center;
+        
+    }
+   .add_box{
+padding-left: 15rem;
+   }
+    .left
+    {
+        
+        display: grid;
+justify-content: flex-start;
+    }
+    .right{
+        max-width: 240px;
+    }
+    .text-m{
+        font-size: 18px;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+        text-transform: uppercase;
+        color:red;
+        padding-right: 20px;
+        margin: 20px;
+
+    }
+    .title{
+        font-size: 18px;
+        margin-top: 1rem;
+        font-weight: 600;
+        color:black;
+    }
+    
+   
+        /* align-items: center; */
+            /* width: 100%; */
+             /* margin-top: 10px;
+             margin-left: 50px; */
+    
+     
+
+    
+        .table-bil.table.th,td{
+            text-align: left;
+            /* padding: 5px 10px; */
+            /* font-weight: 500; */
+        }
+        /* .table-bil.table.th,td,th{
+            text-transform: uppercase;
+            font-weight: 500;
+            padding-left: 15px;
+            text-align: center;
+            margin-top: 20px;
+
+        } */
+        /* .discription{
+            text-align: right;
+            padding-left: 100px;
+        } */
+        /* .quantity{
+            width: 100px;
+            
+        } */
+        .width1{
+            /* width: 300px; */
+            padding-left: 100px;
+            text-align: left;
+        }
+        /* .price{
+            text-align: right;
+            padding-left: 100px;
+        } */
+        .totwidth{
+            /* width: 1000px; */
+            text-align: right;
+        }
+        /* .total{
+            font-size: 24px;
+            color: black;
+            text-align: right;
+        } */
+        /* .total.td{
+            font-weight: normal;
+            border-top: 1px solid wheat;
+            padding-left: 10px;
+        } */
+        .number{
+            text-align: right;
+            font-weight: 600;
+        }
+       .action{
+        padding-left: 270px;
+        margin-top: 1rem;
+        align-items: center;
+       }
+       .action.btn{
+        margin: 0px 3px;
+        padding: 8px 10px;
+        font-size: 1rem;
+        text-transform: uppercase;
+        font-weight: bold;
+        border: 0px;
+        min-height: 130px;
+        color: deepskyblue;
+        border-radius: 8px;
+        cursor: pointer;
+        
+       }
+       .note{
+        /* text-align: center; */
+        margin-top: 1rem;
+        font-size: 12px;
+        padding-left: 165px;
+        color: rgba(118, 40, 40, 0.902);
+       }
+       /* .table-service{
+        margin-left: 100px;
+       } */
+       /* table{
+        border: 2px solid forestgreen;
+       } */
+       .width2{
+        text-align: right;
+        
+       }
+    
